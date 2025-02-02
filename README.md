@@ -38,11 +38,11 @@ Each dataset includes a **detailed report** explaining the cleaning steps perfor
 ## **📖 How to Use This Repository**
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/data-cleaning-project.git
+   git clone https://github.com/MSJWA/data-cleaning-project.git
    ```
 2. **Navigate to a Dataset Folder**  
    ```bash
-   cd data-cleaning-project/1000_books/
+   cd data-cleaning-project/Thousand_Books/
    ```
 3. **Open the Jupyter Notebook**  
    You can open and run the `.ipynb` files in **Jupyter Notebook or VS Code** to see the cleaning steps.  
